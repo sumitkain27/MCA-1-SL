@@ -1,1 +1,24 @@
+Create a web page that contains list and hypertext.
+
+<html>  
+<head>  
+<title>ordered list</title>  
+</head>  
+<body>  
+<ul>  
+<li>c </li>  
+<li>c++ </li>  
+<li>Java</li>  
+<li>Python</li>  
+<li>Javascript</li>  
+</ul>  
+
+      <h1>Hyperlink</h1>
+      <p>
+         We are a <a href="/about/about_team.htm">team</a> of professionals working
+         hard to provide free learning content.
+      </p>
+
+</body>  
+</html>  
 
